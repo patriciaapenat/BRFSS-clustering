@@ -36,7 +36,7 @@ Los análisis realizados revelaron varios patrones y clusters significativos ent
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" alt="Spark" width="40" height="40"/>
+    <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="Spark" width="40" height="40"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="74" height="40"/>
